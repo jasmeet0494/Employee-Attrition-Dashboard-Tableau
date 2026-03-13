@@ -20,13 +20,14 @@ The dataset used in this project is the IBM HR Employee Attrition dataset, which
 
 **Key Attributes**
 
-| **Category** | 	**Variables** |
-| Employee Information | 	Age, Department, Job Role |
-| Compensation | 	Monthly Income, Salary Hike |
-| Demographics	| Marital Status, Education Field |
-| Job Factors	| Business Travel, Job Level, Work Life Balance, companies worked |
-| Satisfaction Metrics |	Job Satisfaction, years since last promotion |
-| Target Variable	Attrition |  (Yes / No) |
+| **Category**            | **Variables**                                                |
+|-------------------------|--------------------------------------------------------------|
+| Employee Information    | Age, Department, Job Role                                   |
+| Compensation            | Monthly Income, Salary Hike                                 |
+| Demographics            | Marital Status, Education Field                             |
+| Job Factors             | Business Travel, Job Level, Work Life Balance, Companies Worked |
+| Satisfaction Metrics    | Job Satisfaction, Years Since Last Promotion                |
+| Target Variable         | Attrition (Yes / No)                                        |
 
 ---
 
