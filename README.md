@@ -53,8 +53,8 @@ The visualization analyzes attrition rates across income bins (Bin size can be a
 
 **Insights**
 
-Employees earning below $3000/month have the highest attrition (approx 53%).
-Attrition gradually decreases as salary increases, indicating compensation is a major retention factor.
+- Employees earning below $3000/month have the highest attrition (approx 53%).
+- Attrition gradually decreases as salary increases, indicating compensation is a major retention factor.
 
 3️⃣ **Marital Status vs Attrition**
 
@@ -62,9 +62,9 @@ This visualization highlights attrition across different marital groups.
 
 **Insights**
 
-Single employees: Highest attrition (~26%)
-Married employees: Lower attrition (~12%)
-Divorced employees: Lowest attrition (~10%)
+- Single employees: Highest attrition (~26%)
+- Married employees: Lower attrition (~12%)
+- Divorced employees: Lowest attrition (~10%)
 
 This suggests personal stability may influence employee retention.
 
@@ -85,7 +85,7 @@ This visualization analyzes attrition across work life balance ratings.
 
 **Insight**
 
-Employees who rated 1 in work life balance show a high attrition of 31%. This ties up with the analysis in point number 4 that working conditions play a crucial part in employee retention.
+- Employees who rated 1 in work life balance show a high attrition of 31%. This ties up with the analysis in point number 4 that working conditions play a crucial part in employee retention.
 
 ---
 
