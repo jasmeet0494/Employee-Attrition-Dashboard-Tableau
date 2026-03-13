@@ -144,6 +144,20 @@ These filters allow users to explore attrition patterns across different employe
 
 ---
 
+# 🚀 How to Use This Project
+
+1️⃣ Clone this repository
+
+git clone https://github.com/jasmeet0494/Employee-Attrition-Dashboard-Tableau.git
+
+2️⃣ Open the Tableau workbook
+
+Employee_Attrition_Dashboard.twbx
+
+3️⃣ Explore the dashboard using filters and parameters.
+
+---
+
 ## 📂Repository Structure
 
 ```
